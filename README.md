@@ -1,6 +1,6 @@
 ## Authentication in Vue using Vuex
 
-Build an application with a protected route and handle authentication using Vuex.
+Build an application with a protected route and handle authentication using Vuex. [Article](https://pusher.com/tutorials/authentication-vue-vuex)
 
 
 ## Getting Started
